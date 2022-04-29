@@ -1,0 +1,38 @@
+
+body,
+html {
+  width: 100% !important;
+  height: 100% !important;
+  font-family: 'Montserrat', sans-serif ;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+}
+h1{
+  font-size: 3rem ;
+  color: #eae60678;
+}
+hr{
+  border-color: #f05f44;
+  border-width: 3px;
+  max-width: 65px;
+}
+.btn-xl{
+  padding: 1rem 2rem;
+
+}
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+}
+.btn-danger{
+background-color: #f05f44;
+
+}
+.buffer{
+  height: 10rem ;
+}
